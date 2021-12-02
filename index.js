@@ -31,7 +31,7 @@ app.get('/', function (req, res) {
 app.get('/file', function (req, res) {
 
 
-  fs.readFile('test.txt', 'utf8' , (err, data) => {
+  fs.readFile('https://hk-alerts.s3.amazonaws.com/alerts.txt', 'utf8' , (err, data) => {
       if (err) {
         console.error(err)
         return
