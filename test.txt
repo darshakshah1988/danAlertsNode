@@ -1,0 +1,236 @@
+Date: October 29, 2021       Time: 1643
+
+There are 161 Daily alerts.
+And 63 Intraday alerts.
+
+
+LONG Alerts (122)
+Symbol,Company,Exchange,Sector,Industry,Price,Signal,Float,Timeframe
+ABT,Abbott Laboratories,NYSE,Healthcare,Medical Equipment & Supplies,128.87,Roadkill Long,0.00,60_240
+ABT,Abbott Laboratories,NYSE,Healthcare,Medical Equipment & Supplies,128.89,Roadkill Volume Aggressive Long,0.00,D_W
+ABT,Abbott Laboratories,NYSE,Healthcare,Medical Equipment & Supplies,128.87,Roadkill Volume Long,0.00,60_240
+ABT,Abbott Laboratories,NYSE,Healthcare,Medical Equipment & Supplies,128.89,Trend Entry Long,0.00,D_W
+ACN,Accenture PLC (Ireland) NEW,NYSE,Technology,Computer Services,358.79,Roadkill Volume Aggressive Long,0.00,D_W
+ADBE,Adobe Inc,NASDAQ,Technology,Software & Programming,650.36,Roadkill Volume Aggressive Long,0.00,D_W
+ADP,Automatic Data Proc,NASDAQ,Services,Business Services,224.48,Roadkill Volume Aggressive Long,0.00,60_240
+ALB,Albemarle Corp,NYSE,Basic Materials,Chemical Manufacturing,250.47,Roadkill Volume Aggressive Long,0.00,D_W
+AME,Ametek Inc,NYSE,Technology,Scientific & Technical Instr.,132.40,Roadkill Volume Aggressive Long,0.00,D_W
+ANSS,Ansys Inc,NASDAQ,Technology,Software & Programming,379.58,Roadkill Volume Aggressive Long,0.00,D_W
+AOS,A O Smith Corp,NYSE,Capital Goods,Misc. Capital Goods,73.07,Roadkill Volume Aggressive Long,0.00,D_W
+AOS,A O Smith Corp,NYSE,Capital Goods,Misc. Capital Goods,73.07,Roadkill Volume Long,0.00,D_W
+APTV,Aptiv PLC,NYSE,Consumer Cyclical,Auto & Truck Parts,172.91,Roadkill Volume Aggressive Long,0.00,60_240
+AVGO,Broadcom Inc,NASDAQ,Technology,Semiconductors,531.78,Roadkill Volume Aggressive Long,0.00,60_240
+AVGO,Broadcom Inc,NASDAQ,Technology,Semiconductors,531.78,Roadkill Volume Long,0.00,60_240
+AVY,Avery Dennison Corp,NYSE,Basic Materials,Containers & Packaging,217.72,Roadkill Volume Aggressive Long,0.00,D_W
+AVY,Avery Dennison Corp,NYSE,Basic Materials,Containers & Packaging,217.72,Roadkill Volume Long,0.00,D_W
+BBY,Best Buy,NYSE,Services,Retail (Technology),122.24,Roadkill Volume Aggressive Long,0.00,D_W
+BBY,Best Buy,NYSE,Services,Retail (Technology),122.24,Trend Entry Long,0.00,D_W
+CAR,Avis Budget Grp,NASDAQ,Services,Rental & Leasing,173.31,Roadkill Volume Aggressive Long,0.00,D_W
+CCL,Carnival Corp,NYSE,Services,Recreational Activities,22.16,Roadkill Volume Aggressive Long,0.00,60_240
+CCL,Carnival Corp,NYSE,Services,Recreational Activities,22.16,Roadkill Volume Long,0.00,60_240
+CME,CME Grp Inc,NASDAQ,Financial,Investment Services,220.55,Roadkill Volume Aggressive Long,0.00,D_W
+CPRT,Copart Inc,NASDAQ,Technology,Computer Services,155.29,Roadkill Volume Aggressive Long,0.00,D_W
+CRL,Charles River Labs Intl,NYSE,Healthcare,Biotechnology & Drugs,448.68,Roadkill Volume Aggressive Long,0.00,D_W
+CRL,Charles River Labs Intl,NYSE,Healthcare,Biotechnology & Drugs,448.68,Roadkill Volume Long,0.00,D_W
+CTLT,Catalent Inc,NYSE,Healthcare,Biotechnology & Drugs,137.86,Roadkill Long,0.00,D_W
+CTLT,Catalent Inc,NYSE,Healthcare,Biotechnology & Drugs,137.86,Roadkill Volume Aggressive Long,0.00,D_W
+CTLT,Catalent Inc,NYSE,Healthcare,Biotechnology & Drugs,137.86,Roadkill Volume Long,0.00,D_W
+CTVA,Corteva Inc W,NYSE,Consumer/Non-Cyclical,Personal & Household Prods.,43.16,Roadkill Volume Aggressive Long,0.00,60_240
+CVS,CVS Health Corp,NYSE,Services,Retail (Drugs),89.28,Roadkill Volume Aggressive Long,0.00,60_240
+DGX,Quest Diagnostics,NYSE,Healthcare,Healthcare Facilities,146.76,Roadkill Volume Aggressive Long,0.00,60_240
+DLTR,Dollar Tree Inc,NASDAQ,Services,Retail (Department & Discount),107.77,Roadkill Volume Aggressive Long,0.00,60_240
+DOCU,DocuSign Inc,NASDAQ,Technology,Software & Programming,278.29,Roadkill Volume Aggressive Long,0.00,D_W
+DOCU,DocuSign Inc,NASDAQ,Technology,Software & Programming,278.29,Roadkill Volume Long,0.00,D_W
+EIX,Edison Intl,NYSE,Utilities,Electric Utilities,62.93,Trend Entry Long,0.00,D_W
+ENPH,Enphase Energy Inc,NASDAQ,Technology,Semiconductors,231.63,Roadkill Volume Aggressive Long,0.00,D_W
+EXPD,Expeditors Intl of Washington,NASDAQ,Transportation,Misc. Transportation,123.26,Roadkill Volume Aggressive Long,0.00,D_W
+EXPD,Expeditors Intl of Washington,NASDAQ,Transportation,Misc. Transportation,123.26,Roadkill Volume Long,0.00,D_W
+EXR,Extrage Space Storage Inc,NYSE,Transportation,Misc. Transportation,197.37,Roadkill Volume Aggressive Long,0.00,D_W
+F,Ford Motor,NYSE,Consumer Cyclical,Auto & Truck Manufacturers,17.08,Roadkill Volume Aggressive Long,0.00,D_W
+FAST,Fastenal Co,NASDAQ,Capital Goods,Constr. & Agric. Machinery,57.08,Roadkill Volume Aggressive Long,0.00,D_W
+FTNT,Fortinet Inc,NASDAQ,Technology,Software & Programming,336.34,Roadkill Volume Aggressive Long,0.00,D_W
+HAS,Hasbro Inc,NASDAQ,Consumer Cyclical,Recreational Products,95.76,Roadkill Volume Aggressive Long,0.00,D_W
+ICE,Intercontinental Exchange Grp,NYSE,Financial,Investment Services,138.46,Roadkill Volume Aggressive Long,0.00,D_W
+INFO,IHS Markit Ltd,NYSE,Technology,Computer Services,130.72,Roadkill Volume Aggressive Long,0.00,D_W
+IQV,IQVIA Hldgs Inc,NYSE,Healthcare,Biotechnology & Drugs,261.42,Roadkill Volume Aggressive Long,0.00,D_W
+IQV,IQVIA Hldgs Inc,NYSE,Healthcare,Biotechnology & Drugs,261.42,Roadkill Volume Long,0.00,D_W
+IT,Gartner Inc,NYSE,Healthcare,Biotechnology & Drugs,331.76,Roadkill Volume Aggressive Long,0.00,60_240
+ITW,Illinois Tool Works,NYSE,Consumer Cyclical,Auto & Truck Parts,227.87,Roadkill Volume Aggressive Long,0.00,D_W
+KDP,Keuring Dr Pepper Inc,NASDAQ,Consumer/Non-Cyclical,Beverages (Nonalcoholic),36.09,Roadkill Volume Aggressive Long,0.00,D_W
+KDP,Keuring Dr Pepper Inc,NASDAQ,Consumer/Non-Cyclical,Beverages (Nonalcoholic),36.09,Roadkill Volume Long,0.00,D_W
+KO,Coca-Cola Co,NYSE,Consumer/Non-Cyclical,Beverages (Nonalcoholic),56.37,Roadkill Volume Aggressive Long,0.00,D_W
+KO,Coca-Cola Co,NYSE,Consumer/Non-Cyclical,Beverages (Nonalcoholic),56.37,Roadkill Volume Long,0.00,D_W
+LH,Laboratory Corp Amer Hldgs,NYSE,Healthcare,Healthcare Facilities,287.03,Roadkill Long,0.00,60_240
+LH,Laboratory Corp Amer Hldgs,NYSE,Healthcare,Healthcare Facilities,287.03,Roadkill Volume Aggressive Long,0.00,60_240
+LH,Laboratory Corp Amer Hldgs,NYSE,Healthcare,Healthcare Facilities,287.03,Roadkill Volume Long,0.00,60_240
+LHX,L3Harris Technologies Inc,NYSE,Capital Goods,Aerospace & Defense,230.71,Roadkill Volume Aggressive Long,0.00,60_240
+LHX,L3Harris Technologies Inc,NYSE,Capital Goods,Aerospace & Defense,230.71,Roadkill Volume Long,0.00,60_240
+LLY,Eli Lilly and Co,NYSE,Healthcare,Biotechnology & Drugs,254.76,Roadkill Volume Aggressive Long,0.00,D_W
+LOW,Lowe's Cos Inc,NYSE,Services,Retail (Home Improvement),233.82,Roadkill Volume Aggressive Long,0.00,D_W
+LSI,Life Storage Inc,NYSE,Transportation,Misc. Transportation,133.81,Roadkill Volume Aggressive Long,0.00,D_W
+LSTR,Landstar System Inc,NASDAQ,Transportation,Trucking,175.81,Roadkill Volume Aggressive Long,0.00,D_W
+MAR,Marriott Int'l Cl A,NASDAQ,Services,Hotels & Motels,160.02,Roadkill Volume Aggressive Long,0.00,D_W
+MAR,Marriott Int'l Cl A,NASDAQ,Services,Hotels & Motels,160.02,Roadkill Volume Long,0.00,D_W
+MCD,McDonald's Corp,NYSE,Services,Restaurants,245.57,Roadkill Volume Aggressive Long,0.00,60_240
+MCK,McKesson Corp,NYSE,Healthcare,Biotechnology & Drugs,207.88,Roadkill Volume Aggressive Long,0.00,D_W
+MCK,McKesson Corp,NYSE,Healthcare,Biotechnology & Drugs,207.85,Roadkill Volume Long,0.00,60_240
+MRK,Merck & Co,NYSE,Healthcare,Biotechnology & Drugs,88.05,Roadkill Volume Aggressive Long,0.00,D_W
+MRK,Merck & Co,NYSE,Healthcare,Biotechnology & Drugs,88.05,Roadkill Volume Long,0.00,D_W
+MRK,Merck & Co,NYSE,Healthcare,Biotechnology & Drugs,88.05,Trend Entry Long,0.00,D_W
+MRVL,Marvell Tech Inc,NASDAQ,Technology,Semiconductors,68.50,Roadkill Volume Aggressive Long,0.00,D_W
+MSFT,Microsoft Corp,NASDAQ,Technology,Software & Programming,331.62,Roadkill Volume Aggressive Long,0.00,D_W
+MSI,Motorola Inc,NYSE,Technology,Communications Equipment,248.59,Roadkill Volume Aggressive Long,0.00,D_W
+NDAQ,NASDAQ Inc,NASDAQ,Financial,Investment Services,209.87,Roadkill Volume Aggressive Long,0.00,D_W
+NVDA,Nvidia Corp,NASDAQ,Technology,Computer Hardware,255.67,Roadkill Volume Aggressive Long,0.00,D_W
+PEP,Pepsico Inc,NASDAQ,Consumer/Non-Cyclical,Beverages (Nonalcoholic),161.59,Roadkill Volume Aggressive Long,0.00,60_240
+PFE,Pfizer Inc,NYSE,Healthcare,Biotechnology & Drugs,43.74,Roadkill Volume Aggressive Long,0.00,D_W
+PFE,Pfizer Inc,NYSE,Healthcare,Biotechnology & Drugs,43.74,Roadkill Volume Long,0.00,D_W
+PG,Procter & Gamble Co,NYSE,Consumer/Non-Cyclical,Personal & Household Prods.,143.00,Roadkill Long,0.00,60_240
+PG,Procter & Gamble Co,NYSE,Consumer/Non-Cyclical,Personal & Household Prods.,143.00,Roadkill Volume Aggressive Long,0.00,60_240
+PG,Procter & Gamble Co,NYSE,Consumer/Non-Cyclical,Personal & Household Prods.,143.00,Roadkill Volume Long,0.00,60_240
+PKI,PerkinElmer Inc,NYSE,Technology,Scientific & Technical Instr.,176.83,Roadkill Long,0.00,60_240
+PKI,PerkinElmer Inc,NYSE,Technology,Scientific & Technical Instr.,176.83,Roadkill Volume Aggressive Long,0.00,60_240
+PKI,PerkinElmer Inc,NYSE,Technology,Scientific & Technical Instr.,176.83,Roadkill Volume Long,0.00,60_240
+POOL,Pool Corporation,NASDAQ,Consumer Cyclical,Recreational Products,515.16,Roadkill Volume Aggressive Long,0.00,D_W
+POOL,Pool Corporation,NASDAQ,Consumer Cyclical,Recreational Products,515.16,Roadkill Volume Long,0.00,D_W
+PSA,Pub Storage,NYSE,Transportation,Misc. Transportation,332.18,Roadkill Volume Aggressive Long,0.00,D_W
+PSA,Pub Storage,NYSE,Transportation,Misc. Transportation,332.18,Trend Entry Long,0.00,D_W
+REGN,Regeneron Pharmaceuticals,NASDAQ,Healthcare,Biotechnology & Drugs,639.94,Roadkill Volume Aggressive Long,0.00,D_W
+REGN,Regeneron Pharmaceuticals,NASDAQ,Healthcare,Biotechnology & Drugs,639.94,Roadkill Volume Long,0.00,D_W
+RHI,Robert Half Intl,NYSE,Services,Business Services,113.07,Roadkill Volume Aggressive Long,0.00,D_W
+RHI,Robert Half Intl,NYSE,Services,Business Services,113.10,Roadkill Volume Long,0.00,60_240
+RL,Ralph Lauren Corp.,NYSE,Services,Retail (Apparel),127.17,Trend Entry Long,0.00,D_W
+ROK,Rockwell Automation,NYSE,Technology,Electronic Instr. & Controls,319.40,Roadkill Volume Aggressive Long,0.00,D_W
+ROK,Rockwell Automation,NYSE,Technology,Electronic Instr. & Controls,319.28,Trend Entry Long,0.00,60_240
+SEE,Sealed Air,NYSE,Basic Materials,Containers & Packaging,59.33,Roadkill Volume Aggressive Long,0.00,60_240
+SEE,Sealed Air,NYSE,Basic Materials,Containers & Packaging,59.33,Roadkill Volume Long,0.00,60_240
+SNPS,Synopsys Inc,NASDAQ,Technology,Software & Programming,333.18,Roadkill Volume Aggressive Long,0.00,D_W
+TECH,Bio-Techne Corp,NASDAQ,Healthcare,Biotechnology & Drugs,523.65,Roadkill Long,0.00,D_W
+TECH,Bio-Techne Corp,NASDAQ,Healthcare,Biotechnology & Drugs,523.65,Roadkill Volume Aggressive Long,0.00,D_W
+TECH,Bio-Techne Corp,NASDAQ,Healthcare,Biotechnology & Drugs,523.65,Roadkill Volume Long,0.00,D_W
+TGT,Target Corp,NYSE,Services,Retail (Department & Discount),259.62,Roadkill Volume Aggressive Long,0.00,D_W
+TJX,TJX Companies,NYSE,Services,Retail (Apparel),65.48,Roadkill Long,0.00,60_240
+TJX,TJX Companies,NYSE,Services,Retail (Apparel),65.48,Roadkill Volume Aggressive Long,0.00,60_240
+TJX,TJX Companies,NYSE,Services,Retail (Apparel),65.48,Roadkill Volume Long,0.00,60_240
+TMO,Thermo Fisher Scientific Inc,NYSE,Healthcare,Medical Equipment & Supplies,633.08,Roadkill Volume Aggressive Long,0.00,60_240
+TSLA,Tesla Inc,NASDAQ,Consumer Cyclical,Auto & Truck Manufacturers,1114.00,Roadkill Volume Aggressive Long,0.00,D_W
+TXT,Textron Inc,NYSE,Conglomerates,Conglomerates,73.85,Roadkill Volume Aggressive Long,0.00,60_240
+TXT,Textron Inc,NYSE,Conglomerates,Conglomerates,73.85,Roadkill Volume Long,0.00,60_240
+URI,United Rentals Inc,NYSE,Services,Rental & Leasing,379.11,Roadkill Volume Aggressive Long,0.00,D_W
+VRTX,Vertex Pharmaceuticals,NASDAQ,Healthcare,Biotechnology & Drugs,184.98,Roadkill Volume Aggressive Long,0.00,60_240
+VRTX,Vertex Pharmaceuticals,NASDAQ,Healthcare,Biotechnology & Drugs,184.98,Roadkill Volume Long,0.00,60_240
+WAT,Waters Corp,NYSE,Technology,Scientific & Technical Instr.,367.55,Roadkill Long,0.00,60_240
+WAT,Waters Corp,NYSE,Technology,Scientific & Technical Instr.,367.55,Roadkill Volume Aggressive Long,0.00,60_240
+WAT,Waters Corp,NYSE,Technology,Scientific & Technical Instr.,367.55,Roadkill Volume Long,0.00,60_240
+WM,Waste Mgt Inc,NYSE,Services,Waste Management Services,160.23,Roadkill Volume Aggressive Long,0.00,60_240
+WM,Waste Mgt Inc,NYSE,Services,Waste Management Services,160.23,Roadkill Volume Long,0.00,60_240
+WMT,Walmart Inc,NYSE,Services,Retail (Grocery),149.42,Roadkill Volume Aggressive Long,0.00,D_W
+WST,West Pharmaceutical Svcs,NYSE,Healthcare,Medical Equipment & Supplies,429.88,Roadkill Volume Aggressive Long,0.00,D_W
+WST,West Pharmaceutical Svcs,NYSE,Healthcare,Medical Equipment & Supplies,429.88,Roadkill Volume Long,0.00,D_W
+ZTS,Zoetis Inc,NYSE,Healthcare,Biotechnology & Drugs,216.23,Roadkill Volume Aggressive Long,0.00,60_240
+
+
+SHORT Alerts (102)
+Symbol,Company,Exchange,Sector,Industry,Price,Signal,Timeframe
+AFL,AFLAC Inc,NYSE,Financial,Insurance (Accident & Health),53.67,Roadkill Volume Aggressive Short,0.00,D_W
+AFL,AFLAC Inc,NYSE,Financial,Insurance (Accident & Health),53.67,Roadkill Volume Short,0.00,D_W
+ALK,Alaska Air Grp Inc,NYSE,Transportation,Airline,52.80,Trend Entry Short,0.00,D_W
+ALL,Allstate Corp,NYSE,Financial,Insurance (Prop. & Casualty),123.67,Roadkill Volume Aggressive Short,0.00,D_W
+ALL,Allstate Corp,NYSE,Financial,Insurance (Prop. & Casualty),123.67,Roadkill Volume Short,0.00,D_W
+ALL,Allstate Corp,NYSE,Financial,Insurance (Prop. & Casualty),123.67,Trend Entry Short,0.00,D_W
+BDN,BrandyWine Rlty Trust SBI,NYSE,Services,Real Estate Operations,13.25,Roadkill Volume Aggressive Short,0.00,D_W
+BDN,BrandyWine Rlty Trust SBI,NYSE,Services,Real Estate Operations,13.25,Roadkill Volume Short,0.00,D_W
+BRK.B,Berkshire Hathaway'B',NYSE,Financial,Insurance (Prop. & Casualty),286.87,Roadkill Volume Aggressive Short,0.00,60_240
+BRK.B,Berkshire Hathaway'B',NYSE,Financial,Insurance (Prop. & Casualty),286.87,Roadkill Volume Short,0.00,60_240
+CAG,Conagra Brands Inc,NYSE,Consumer/Non-Cyclical,Food Processing,32.20,Roadkill Short,0.00,D_W
+CAG,Conagra Brands Inc,NYSE,Consumer/Non-Cyclical,Food Processing,32.20,Roadkill Volume Aggressive Short,0.00,D_W
+CAG,Conagra Brands Inc,NYSE,Consumer/Non-Cyclical,Food Processing,32.20,Roadkill Volume Short,0.00,D_W
+CINF,Cincinnati Finl,NASDAQ,Financial,Insurance (Prop. & Casualty),121.45,Roadkill Volume Aggressive Short,0.00,60_240
+CINF,Cincinnati Finl,NASDAQ,Financial,Insurance (Prop. & Casualty),121.45,Roadkill Volume Short,0.00,60_240
+COF,Cap One Finl,NYSE,Financial,Consumer Financial Services,151.03,Roadkill Volume Aggressive Short,0.00,D_W
+COF,Cap One Finl,NYSE,Financial,Consumer Financial Services,151.03,Roadkill Volume Short,0.00,D_W
+CTXS,Citrix Systems Inc,NASDAQ,Technology,Software & Programming,94.73,Roadkill Volume Aggressive Short,0.00,D_W
+CTXS,Citrix Systems Inc,NASDAQ,Technology,Software & Programming,94.73,Roadkill Volume Short,0.00,D_W
+CTXS,Citrix Systems Inc,NASDAQ,Technology,Software & Programming,94.73,Trend Entry Short,0.00,D_W
+DISCK,Discovery Inc Ser C,NASDAQ,Services,Motion Pictures,22.56,Roadkill Short,0.00,60_240
+FIS,Fidelity National Information,NYSE,Financial,Consumer Financial Services,110.74,Roadkill Short,0.00,D_W
+FIS,Fidelity National Information,NYSE,Financial,Consumer Financial Services,110.74,Roadkill Volume Aggressive Short,0.00,D_W
+FIS,Fidelity National Information,NYSE,Financial,Consumer Financial Services,110.74,Roadkill Volume Short,0.00,D_W
+FLT,Fleetcor Technologies Inc,NYSE,Services,Business Services,247.41,Roadkill Volume Aggressive Short,0.00,D_W
+FLT,Fleetcor Technologies Inc,NYSE,Services,Business Services,247.41,Roadkill Volume Short,0.00,D_W
+FOX,Twenty-First Century Fox Inc B,NASDAQ,Services,Broadcasting & Cable TV,36.96,Roadkill Volume Aggressive Short,0.00,D_W
+FOX,Twenty-First Century Fox Inc B,NASDAQ,Services,Broadcasting & Cable TV,36.96,Roadkill Volume Short,0.00,D_W
+FOXA,Twenty-First Century Fox Inc A,NASDAQ,Services,Broadcasting & Cable TV,39.74,Roadkill Volume Aggressive Short,0.00,D_W
+FOXA,Twenty-First Century Fox Inc A,NASDAQ,Services,Broadcasting & Cable TV,39.74,Roadkill Volume Short,0.00,D_W
+GILD,Gilead Sciences,NASDAQ,Healthcare,Biotechnology & Drugs,64.88,Trend Entry Short,0.00,D_W
+GPN,Global Payments Inc,NYSE,Financial,Consumer Financial Services,142.99,Roadkill Volume Aggressive Short,0.00,60_240
+GPN,Global Payments Inc,NYSE,Financial,Consumer Financial Services,142.99,Trend Entry Short,0.00,60_240
+GRMN,Garmin Ltd,NASDAQ,Technology,Communications Equipment,143.60,Roadkill Volume Aggressive Short,0.00,D_W
+GRMN,Garmin Ltd,NASDAQ,Technology,Communications Equipment,143.60,Roadkill Volume Short,0.00,D_W
+HII,Huntington Ingalls Industries,NYSE,Capital Goods,Aerospace & Defense,202.73,Roadkill Volume Aggressive Short,0.00,D_W
+HII,Huntington Ingalls Industries,NYSE,Capital Goods,Aerospace & Defense,202.73,Roadkill Volume Short,0.00,D_W
+HPP,Hudson Pacific Properties Inc,NYSE,Services,Real Estate Operations,25.75,Roadkill Volume Aggressive Short,0.00,D_W
+HPP,Hudson Pacific Properties Inc,NYSE,Services,Real Estate Operations,25.75,Roadkill Volume Short,0.00,D_W
+HSY,The Hershey Co,NYSE,Consumer/Non-Cyclical,Food Processing,175.35,Roadkill Volume Aggressive Short,0.00,D_W
+HSY,The Hershey Co,NYSE,Consumer/Non-Cyclical,Food Processing,175.35,Roadkill Volume Short,0.00,D_W
+IBM,Intl Business Machines Corp,NYSE,Technology,Computer Services,125.10,Trend Entry Short,0.00,D_W
+IP,Intl Paper,NYSE,Basic Materials,Paper & Paper Products,49.67,Trend Entry Short,0.00,D_W
+KEX,Kirby Corp,NYSE,Transportation,Water Transportation,52.41,Roadkill Short,0.00,D_W
+KEX,Kirby Corp,NYSE,Transportation,Water Transportation,52.41,Roadkill Volume Aggressive Short,0.00,D_W
+KEX,Kirby Corp,NYSE,Transportation,Water Transportation,52.41,Roadkill Volume Short,0.00,D_W
+LUMN,Lumen Technologies Inc,NYSE,Services,Communications Services,11.86,Roadkill Volume Aggressive Short,0.00,D_W
+LUMN,Lumen Technologies Inc,NYSE,Services,Communications Services,11.86,Roadkill Volume Short,0.00,D_W
+LYB,LyondellBasell Ind N.V.,NYSE,Basic Materials,Chemical Manufacturing,92.82,Roadkill Short,0.00,D_W
+LYB,LyondellBasell Ind N.V.,NYSE,Basic Materials,Chemical Manufacturing,92.82,Roadkill Volume Aggressive Short,0.00,D_W
+LYB,LyondellBasell Ind N.V.,NYSE,Basic Materials,Chemical Manufacturing,92.82,Roadkill Volume Short,0.00,D_W
+MELI,Mercadolibre Inc,NASDAQ,Services,Retail (Catalog & Mail Order),1481.02,Roadkill Short,0.00,D_W
+MELI,Mercadolibre Inc,NASDAQ,Services,Retail (Catalog & Mail Order),1481.02,Roadkill Volume Aggressive Short,0.00,D_W
+MELI,Mercadolibre Inc,NASDAQ,Services,Retail (Catalog & Mail Order),1481.02,Roadkill Volume Short,0.00,D_W
+MO,Altria Grp,NYSE,Consumer/Non-Cyclical,Tobacco,44.11,Roadkill Volume Aggressive Short,0.00,D_W
+MO,Altria Grp,NYSE,Consumer/Non-Cyclical,Tobacco,44.11,Roadkill Volume Short,0.00,D_W
+MTB,M&T Bank,NYSE,Financial,Regional Banks,147.12,Roadkill Volume Aggressive Short,0.00,D_W
+MTB,M&T Bank,NYSE,Financial,Regional Banks,147.12,Roadkill Volume Short,0.00,D_W
+MTCH,Match Group Inc,NASDAQ,Technology,Computer Services,150.78,Roadkill Volume Aggressive Short,0.00,D_W
+MTCH,Match Group Inc,NASDAQ,Technology,Computer Services,150.78,Roadkill Volume Short,0.00,D_W
+NEM,Newmont Goldcorp Corp,NYSE,Basic Materials,Gold & Silver,54.00,Roadkill Short,0.00,D_W
+NEM,Newmont Goldcorp Corp,NYSE,Basic Materials,Gold & Silver,54.00,Roadkill Volume Aggressive Short,0.00,D_W
+NEM,Newmont Goldcorp Corp,NYSE,Basic Materials,Gold & Silver,54.00,Roadkill Volume Short,0.00,D_W
+NEM,Newmont Goldcorp Corp,NYSE,Basic Materials,Gold & Silver,54.02,Trend Entry Short,0.00,60_240
+NOV,NOV Inc,NYSE,Energy,Oil Well Services & Equipment,14.02,Roadkill Volume Aggressive Short,0.00,60_240
+NOV,NOV Inc,NYSE,Energy,Oil Well Services & Equipment,14.02,Roadkill Volume Short,0.00,60_240
+NOV,NOV Inc,NYSE,Energy,Oil Well Services & Equipment,14.02,Trend Entry Short,0.00,60_240
+NRG,NRG Energy Inc,NYSE,Utilities,Electric Utilities,39.89,Roadkill Volume Aggressive Short,0.00,D_W
+OPI,Office Properties Income Trust,NASDAQ,Services,Real Estate Operations,25.62,Roadkill Short,0.00,D_W
+OPI,Office Properties Income Trust,NASDAQ,Services,Real Estate Operations,25.62,Roadkill Volume Aggressive Short,0.00,D_W
+OPI,Office Properties Income Trust,NASDAQ,Services,Real Estate Operations,25.62,Roadkill Volume Short,0.00,D_W
+PBCT,People's United Finl Inc,NASDAQ,Financial,Regional Banks,17.14,Roadkill Volume Aggressive Short,0.00,D_W
+PBCT,People's United Finl Inc,NASDAQ,Financial,Regional Banks,17.14,Roadkill Volume Short,0.00,D_W
+PM,Philip Morris Intl Inc,NYSE,Consumer/Non-Cyclical,Tobacco,94.54,Roadkill Volume Aggressive Short,0.00,D_W
+PM,Philip Morris Intl Inc,NYSE,Consumer/Non-Cyclical,Tobacco,94.54,Roadkill Volume Short,0.00,D_W
+PNW,Pinnacle West Cap Corp,NYSE,Utilities,Electric Utilities,64.49,Roadkill Volume Aggressive Short,0.00,D_W
+PSX,Phillips 66,NYSE,Energy,Oil & Gas Operations,74.78,Roadkill Volume Aggressive Short,0.00,D_W
+PSX,Phillips 66,NYSE,Energy,Oil & Gas Operations,74.78,Roadkill Volume Short,0.00,D_W
+PW,Power REIT,AMEX,Services,Real Estate Operations,48.90,Roadkill Volume Aggressive Short,0.00,D_W
+PW,Power REIT,AMEX,Services,Real Estate Operations,48.90,Roadkill Volume Short,0.00,D_W
+PYPL,PayPal Hldgs Inc,NASDAQ,Financial,Consumer Financial Services,232.59,Trend Entry Short,0.00,D_W
+RE,Everest Re Grp,NYSE,Financial,Insurance (Prop. & Casualty),261.50,Roadkill Volume Aggressive Short,0.00,D_W
+RE,Everest Re Grp,NYSE,Financial,Insurance (Prop. & Casualty),261.50,Roadkill Volume Short,0.00,D_W
+RE,Everest Re Grp,NYSE,Financial,Insurance (Prop. & Casualty),261.51,Trend Entry Short,0.00,60_240
+SNA,Snap-On Inc,NYSE,Consumer Cyclical,Appliance & Tool,203.23,Roadkill Volume Aggressive Short,0.00,D_W
+SVC,Service Properties Trust,NASDAQ,Services,Real Estate Operations,10.77,Roadkill Volume Aggressive Short,0.00,D_W
+SVC,Service Properties Trust,NASDAQ,Services,Real Estate Operations,10.77,Roadkill Volume Short,0.00,D_W
+TSN,Tyson Foods 'A',NYSE,Consumer/Non-Cyclical,Food Processing,79.96,Roadkill Volume Aggressive Short,0.00,60_240
+TSN,Tyson Foods 'A',NYSE,Consumer/Non-Cyclical,Food Processing,79.96,Roadkill Volume Short,0.00,60_240
+TSN,Tyson Foods 'A',NYSE,Consumer/Non-Cyclical,Food Processing,79.96,Trend Entry Short,0.00,60_240
+TWTR,Twitter Inc,NYSE,Technology,Computer Services,53.54,Trend Entry Short,0.00,D_W
+UHS,Universal Health Svcs,NYSE,Healthcare,Healthcare Facilities,124.10,Roadkill Volume Aggressive Short,0.00,D_W
+UHS,Universal Health Svcs,NYSE,Healthcare,Healthcare Facilities,124.10,Roadkill Volume Short,0.00,D_W
+ULTA,Ulta Beauty Inc,NASDAQ,Services,Retail (Specialty),367.17,Roadkill Short,0.00,60_240
+ULTA,Ulta Beauty Inc,NASDAQ,Services,Retail (Specialty),367.17,Roadkill Volume Aggressive Short,0.00,60_240
+ULTA,Ulta Beauty Inc,NASDAQ,Services,Retail (Specialty),367.17,Roadkill Volume Short,0.00,60_240
+VIAC,ViacomCBS Inc Cl B,NASDAQ,Services,Broadcasting & Cable TV,36.22,Roadkill Volume Aggressive Short,0.00,D_W
+VTR,Ventas Inc,NYSE,Services,Real Estate Operations,53.37,Roadkill Volume Aggressive Short,0.00,D_W
+VTR,Ventas Inc,NYSE,Services,Real Estate Operations,53.37,Roadkill Volume Short,0.00,D_W
+WELL,Welltower Inc,NYSE,Services,Real Estate Operations,80.40,Roadkill Volume Aggressive Short,0.00,D_W
+WELL,Welltower Inc,NYSE,Services,Real Estate Operations,80.40,Roadkill Volume Short,0.00,D_W
+WRK,Westrock Co,NYSE,Basic Materials,Containers & Packaging,48.10,Roadkill Volume Aggressive Short,0.00,D_W
